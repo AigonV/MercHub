@@ -281,7 +281,7 @@ function library:new(props)
 			BorderColor3 = Color3.fromRGB(12, 12, 12),
 			BorderMode = "Inset",
 			BorderSizePixel = 1,
-			Size = UDim2.new(1,0,1,-45),
+			Size = UDim2.new(1,0,1,-90),
 			Position = UDim2.new(0.5,0,1,0),
 			Parent = holder
 		}
